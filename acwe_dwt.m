@@ -7,7 +7,7 @@ function u = acwe_dwt(u0, Img,  timestep,...
 
 % link: https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/
 
-%note: it is a enhanced method to improve the CV model described in ref [1]
+%note: it is an enhanced method to improve the CV model described in ref [1]
 %Inputs:
 %u0: the initial function.
 %Img: the input image.
