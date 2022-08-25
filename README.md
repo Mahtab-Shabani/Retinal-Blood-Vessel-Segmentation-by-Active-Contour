@@ -1,2 +1,10 @@
 # Retinal-Blood-Vessel-Segmentation-by-Active-Contour
-Active contour is a strong method for edge extraction. However, it cannot extract thin vessels and ridges very well. In this project, I implement an enhanced active contour method that uses discrete wavelet transform for energy minimization to solve this problem.
+
+It is an implementation of the paper below:
+
+An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc
+
+https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/
+
+
+Just RUN Demo_ActiveContoure.m 
