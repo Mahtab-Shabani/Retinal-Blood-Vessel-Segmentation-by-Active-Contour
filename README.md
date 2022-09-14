@@ -30,7 +30,7 @@ The result of the active contour:
 
 ![image](https://user-images.githubusercontent.com/21992001/188756944-fc158b81-bfec-4ebc-b99a-2fd6b8c71227.png)
  
-### 6.	Vessel Tree Generation (Otsu thresholding):
+### 6.	Vessel Tree Generation:
 ![image](https://user-images.githubusercontent.com/21992001/188757163-e0dd7376-8563-4c07-8ced-da9987829621.png)
 
 ### 7.	Performance evaluation
