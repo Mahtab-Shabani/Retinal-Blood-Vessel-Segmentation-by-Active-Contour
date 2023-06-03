@@ -2,7 +2,7 @@
 
 Medical image analysis, especially of the retina, plays an important role in diagnostic decision support tools. The properties of retinal blood vessels are used for disease diagnoses such as diabetes, glaucoma, and hypertension. There are some challenges in the utilization of retinal blood vessel patterns such as low contrast and intensity inhomogeneities. Thus, an automatic algorithm for vessel extraction is required. Active contour is a strong method for edge extraction. However, it cannot extract thin vessels and ridges very well. We propose an enhanced active contour for retinal blood vessel extraction. this repository is an implementation of the paper below:
 
-#### "An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc"
+**"An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc"**
 
 https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/
 
@@ -38,7 +38,7 @@ We carry out the algorithm in MATLAB version R2014a on a personal computer runni
 
 ![image](https://user-images.githubusercontent.com/21992001/188757404-4d7e2356-d4fc-4f6a-86b4-2dc5e406d3ff.png)
 
-#### Performance metrics on the DRIVE, STARE, HRF, CHASE DB1, and ARIA databases:
+**Performance metrics on the DRIVE, STARE, HRF, CHASE DB1, and ARIA databases:**
 ![image](https://user-images.githubusercontent.com/21992001/188757447-7e44be60-17ec-41e1-81ff-e077caa46f16.png)
 
 ### 8.	performance in the absence of main vessels
@@ -51,4 +51,4 @@ The average TPR is achieved 0.4544 that means our algorithm can detect 45.44 per
  (a) Expert's annotation. (b) the corresponding new benchmark that made by us.
 
 
-#### Now RUN Demo_ActiveContoure.m and Enjoy it!
+**Now RUN Demo_ActiveContoure.m and Enjoy it!**
