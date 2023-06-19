@@ -26,7 +26,7 @@ https://www.researchgate.net/publication/362887703_Master_thesis_Retinal_Blood_V
 ### 5.	Enhanced Active Contour:
 ![image](https://user-images.githubusercontent.com/21992001/188756055-853d0129-0c73-4001-8124-517f256b5772.png)
 
-The result of the active contour:
+**The result of the active contour:**
 
 ![image](https://user-images.githubusercontent.com/21992001/188756944-fc158b81-bfec-4ebc-b99a-2fd6b8c71227.png)
  
