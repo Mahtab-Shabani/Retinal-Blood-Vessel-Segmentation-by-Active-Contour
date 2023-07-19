@@ -1,6 +1,6 @@
 # Retinal-Blood-Vessel-Segmentation-by-Active-Contour
 
-Medical image analysis, especially of the retina, plays an important role in diagnostic decision support tools. The properties of retinal blood vessels are used for disease diagnoses such as diabetes, glaucoma, and hypertension. There are some challenges in the utilization of retinal blood vessel patterns such as low contrast and intensity inhomogeneities. Thus, an automatic algorithm for vessel extraction is required. Active contour is a strong method for edge extraction. However, it cannot extract thin vessels and ridges very well. We propose an enhanced active contour for retinal blood vessel extraction. this repository is an implementation of the paper below:
+Active contour is a strong method for edge extraction. However, it cannot extract thin vessels and ridges very well. We propose an enhanced active contour for retinal blood vessel extraction. this repository is an implementation of the paper below:
 
 **"An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc"**
 
