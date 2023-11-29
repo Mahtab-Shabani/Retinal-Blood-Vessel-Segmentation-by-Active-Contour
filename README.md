@@ -2,11 +2,9 @@
 
 Active contour is a strong method for edge extraction. However, it cannot extract thin vessels and ridges very well. We propose an enhanced active contour for retinal blood vessel extraction. this repository is an implementation of the paper below:
 
-**"An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc"**
+**"An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc"** 
+ [LINK](https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/)
 
-Mahtab Shabani, Hossein Pourghassem, An Active Contour Model Using Matched Filter and Hessian Matrix for Retinal Vessels Segmentation. Turkish Journal of Electrical Engineering and Computer Science, 2022 Jan 19; 30(1): 295-311.
-
-https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/
 
 For more additional information read the master dissertation: [Preprint](https://www.researchgate.net/publication/362887703_Master_thesis_Retinal_Blood_Vessel_Extraction_Based_on_a_Combination_of_Matched_Filter_and_Level_Set_Algorithm)  
 
