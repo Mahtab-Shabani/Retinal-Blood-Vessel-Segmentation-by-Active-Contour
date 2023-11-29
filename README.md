@@ -8,9 +8,9 @@ Mahtab Shabani, Hossein Pourghassem, An Active Contour Model Using Matched Filte
 
 https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/
 
-For more additional information read the master dissertation:
+For more additional information read the master dissertation: [Preprint](https://www.researchgate.net/publication/362887703_Master_thesis_Retinal_Blood_Vessel_Extraction_Based_on_a_Combination_of_Matched_Filter_and_Level_Set_Algorithm)  
 
-https://www.researchgate.net/publication/362887703_Master_thesis_Retinal_Blood_Vessel_Extraction_Based_on_a_Combination_of_Matched_Filter_and_Level_Set_Algorithm
+
 
 # STEPS
 ### 1.	Original image:
