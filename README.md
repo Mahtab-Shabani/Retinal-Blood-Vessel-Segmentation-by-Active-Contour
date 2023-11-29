@@ -4,6 +4,8 @@ Active contour is a strong method for edge extraction. However, it cannot extrac
 
 **"An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc"**
 
+Mahtab Shabani, Hossein Pourghassem, An Active Contour Model Using Matched Filter and Hessian Matrix for Retinal Vessels Segmentation. Turkish Journal of Electrical Engineering and Computer Science, 2022 Jan 19; 30(1): 295-311.
+
 https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/
 
 For more additional information read the master dissertation:
