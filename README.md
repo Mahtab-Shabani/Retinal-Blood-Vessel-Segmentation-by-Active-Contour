@@ -37,6 +37,8 @@ For more additional information read the master dissertation: [Preprint](https:/
 We carry out the algorithm in MATLAB version R2014a on a personal computer running Windows 10 with an Intel(R) Core i5-7200U, the processor 2.5GHz and 8 GB of memory. The proposed algorithm is experimented on five public available dataset. The values achieved are 94.3%, 73.36%, and 97.41% for accuracy, sensitivity, and specificity, respectively, on the DRIVE dataset, and the proposed algorithm is comparable to the state-of-the-art approaches.
 
 ![image](https://user-images.githubusercontent.com/21992001/188757404-4d7e2356-d4fc-4f6a-86b4-2dc5e406d3ff.png)
+*The top: Randomly chosen images from DRIVE dataset. The middle: Segmentation results. The bottom: Expert's annotation.*
+
 
 **Performance metrics on the DRIVE, STARE, HRF, CHASE DB1, and ARIA databases:**
 ![image](https://user-images.githubusercontent.com/21992001/188757447-7e44be60-17ec-41e1-81ff-e077caa46f16.png)
@@ -48,7 +50,7 @@ The average TPR is achieved 0.4544 that means our algorithm can detect 45.44 per
 
 (a) ![image](https://user-images.githubusercontent.com/21992001/188757663-5f71b8d0-3ac4-4707-b3bb-8aed35b7b52b.png) (b) ![image](https://user-images.githubusercontent.com/21992001/188757682-7b01de56-2dbf-49b9-b43d-89f5d6ca81bc.png)
 
- (a) Expert's annotation. (b) the corresponding new benchmark that made by us.
+ *(a) Expert's annotation. (b) the corresponding new benchmark that made by us.*
 
 Basic Usage
 ===========
