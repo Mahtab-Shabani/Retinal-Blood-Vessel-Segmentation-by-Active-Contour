@@ -41,6 +41,7 @@ using the vessel enhancement method in [1]. The authors in [1] present an algori
 We carry out the algorithm in MATLAB version R2014a on a personal computer running Windows 10 with an Intel(R) Core i5-7200U, the processor 2.5GHz and 8 GB of memory. The proposed algorithm is experimented on five public available dataset. The values achieved are 94.3%, 73.36%, and 97.41% for accuracy, sensitivity, and specificity, respectively, on the DRIVE dataset, and the proposed algorithm is comparable to the state-of-the-art approaches.
 
 ![image](https://user-images.githubusercontent.com/21992001/188757404-4d7e2356-d4fc-4f6a-86b4-2dc5e406d3ff.png)
+
 *The top: Randomly chosen images from DRIVE dataset. The middle: Segmentation results. The bottom: Expert's annotation.*
 
 
