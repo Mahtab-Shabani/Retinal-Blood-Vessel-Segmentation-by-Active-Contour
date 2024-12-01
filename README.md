@@ -28,6 +28,10 @@ using the vessel enhancement method in [1]. The authors in [1] present an algori
 ![image](https://user-images.githubusercontent.com/21992001/188754764-7b0f0a96-f5a6-4736-8cd6-90fe011e28a7.png)
  
 ### 5.	Enhanced Active Contour:
+5.1. Adding Wavelet terms to the minimization energy formula to improve the performance of the algorithm
+
+5.2. Optimization process
+
 ![image](https://user-images.githubusercontent.com/21992001/188756055-853d0129-0c73-4001-8124-517f256b5772.png)
 
 **The result of the active contour:**
