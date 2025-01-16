@@ -3,7 +3,23 @@
 Active contour is a strong method for edge extraction. However, it cannot extract thin vessels and ridges very well. We propose an enhanced active contour for retinal blood vessel extraction. this repository is an implementation of the paper below:
 
 **"An active contour model using matched filter and Hessian matrix for retinal vessels segmentation. Shabani etc"** 
- [LINK](https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/)
+ [LINK](https://journals.tubitak.gov.tr/elektrik/vol30/iss1/20/) <br/>
+[Mahtab Shabani](https://scholar.google.com/citations?user=GkpKF88AAAAJ&hl=en) , [Hossein Pourghassem](https://scholar.google.com/citations?user=o1fC3ngAAAAJ&hl=en)
+
+
+#### Citation: 
+If you find our work useful, please consider citing:
+```bibtex
+@article{shabani2022active,
+  title={An active contour model using matched filter and Hessian matrix for retinalvessels segmentation},
+  author={Shabani, Mahtab and Pourghassem, Hossein},
+  journal={Turkish Journal of Electrical Engineering and Computer Sciences},
+  volume={30},
+  number={1},
+  pages={295--311},
+  year={2022}
+}
+```
 
 
 For more additional information read the master dissertation: [Preprint](https://www.researchgate.net/publication/362887703_Master_thesis_Retinal_Blood_Vessel_Extraction_Based_on_a_Combination_of_Matched_Filter_and_Level_Set_Algorithm)  
@@ -60,6 +76,7 @@ The average TPR is achieved 0.4544 that means our algorithm can detect 45.44 per
 (a) ![image](https://user-images.githubusercontent.com/21992001/188757663-5f71b8d0-3ac4-4707-b3bb-8aed35b7b52b.png) (b) ![image](https://user-images.githubusercontent.com/21992001/188757682-7b01de56-2dbf-49b9-b43d-89f5d6ca81bc.png)
 
  *(a) Expert's annotation. (b) the corresponding new benchmark that made by us.*
+
 
 Basic Usage
 ===========
