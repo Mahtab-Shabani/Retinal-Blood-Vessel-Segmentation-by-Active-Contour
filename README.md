@@ -24,6 +24,8 @@ If you find our work useful, please consider citing:
 
 For additional information, read the master dissertation: [Preprint](https://www.researchgate.net/publication/362887703_Master_thesis_Retinal_Blood_Vessel_Extraction_Based_on_a_Combination_of_Matched_Filter_and_Level_Set_Algorithm)  
 
+Farsi master dissertation: [Farsi-thesis](https://www.researchgate.net/publication/396745865_astkhraj_rwq_shbkyh_brasas_trkyb_fyltr_ttbyqy_w_algwrytm_hm-traz)  
+
 
 
 # STEPS
