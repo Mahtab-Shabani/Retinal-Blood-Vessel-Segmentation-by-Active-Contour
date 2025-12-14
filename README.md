@@ -82,4 +82,4 @@ The average TPR is achieved at 0.4544, which means our algorithm can detect 45.4
 
 Basic Usage
 ===========
-**Now RUN Demo_ActiveContoure.m and Enjoy it!**
+Now RUN **Demo_ActiveContoure.m** and Enjoy it!
