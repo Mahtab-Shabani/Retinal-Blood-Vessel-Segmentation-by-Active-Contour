@@ -39,10 +39,6 @@ Farsi master dissertation: [Farsi-thesis](https://www.researchgate.net/publicati
 ![image](https://user-images.githubusercontent.com/21992001/188754739-2f9365f2-b302-449b-affe-426348a2684c.png)
  
 ### 4.	Vessel Enhancement:
-using the vessel enhancement method in [1]. The authors in [1] present an algorithm based on iterated morphology operators. By using this filter inhomogeneities illumination are reduced, and the false edge around the optic disk is destroyed.
-
-[1]	Heneghan, C., Flynn, J., O’Keefe, M., et al., Characterization of changes in blood vessel width and tortuosity in retinopathy of prematurity using image analysis. Medical image analysis, 2002. 6(4), pp. 407-429.
-
 ![image](https://user-images.githubusercontent.com/21992001/188754764-7b0f0a96-f5a6-4736-8cd6-90fe011e28a7.png)
  
 ### 5.	Enhanced Active Contour:
